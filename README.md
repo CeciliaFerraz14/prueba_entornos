@@ -1,4 +1,4 @@
 # prueba_entornos
 Ejemplo
-#Sección 1
+# Sección 1
 
